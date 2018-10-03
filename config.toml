@@ -1,0 +1,4 @@
+baseURL = "https://scrimmage.us/"
+languageCode = "en-us"
+title = "Scrimmage Product Lab"
+theme = "ananke"
